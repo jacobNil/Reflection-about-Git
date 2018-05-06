@@ -1,0 +1,4 @@
+What happens when you initializa a repository? Why do you need to do it?
+
+When initializing a repository, I started to use git for version control.
+

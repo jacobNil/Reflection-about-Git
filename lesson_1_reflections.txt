@@ -1,0 +1,33 @@
+Diff can be very helpful when we trying to find bugs. When bugs appeared after we make some 
+modification to code, it's very likely that they are introduced by the modification we just
+made. If we can quickly find all modification we make, it'll be convenient for us to debug
+the code.
+
+The history of a file will also be very useful when we are trying find when and what modification
+are made during the histroy of the file.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automically saved, like Google Docs does?
+Automically saved version control, like Google Docs, could be too detaled and small. The good part of this is that you can have it for free.
+The commit of Git provide more flexibility, which is very nice feature. But this flexibility could be misused.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Because addition of a single feature might need modification to more than one file.
+
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+We can use command "git log [filename]" to see the commit history of one file
+
+
+
+How might using version control make you more confident to make changes that could break something?
+
+With version control, you can roll back to one of the history state. This is very useful when you
+want to find out which modification you made that introduce the error.
+
+
+Now you have your workspace set up, what do you want to try to try to using Git for?
+
+For a project.
