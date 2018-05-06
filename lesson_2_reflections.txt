@@ -2,3 +2,9 @@ What happens when you initializa a repository? Why do you need to do it?
 
 When initializing a repository, I started to use git for version control.
 
+
+
+
+How is the staging area different from the working directory and repository? What value do you think it offers?
+
+Staging area provide a place we want keep some modification we make before for a commit. It help up to sort our what modification we want for a commit.
