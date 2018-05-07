@@ -8,3 +8,18 @@ When initializing a repository, I started to use git for version control.
 How is the staging area different from the working directory and repository? What value do you think it offers?
 
 Staging area provide a place we want keep some modification we make before for a commit. It help up to sort our what modification we want for a commit.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+I can add all modification belong to this logical change to the staging area.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branched help?
+1)when we want to test some experimental features without affecting the main branch(released product)
+2)when want to working something different. We can create a branch for each different things we want to work on.
+
+How do the diagrams help you visualize the branch structure?
+
+
+
+
