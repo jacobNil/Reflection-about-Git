@@ -22,4 +22,5 @@ How do the diagrams help you visualize the branch structure?
 
 
 
-
+What is the result of merging two branched together? Why do we represent it in the diagram the way we do?
+The result is that we have one branch and all commits from both branches are in this branch
